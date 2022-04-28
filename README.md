@@ -1,5 +1,7 @@
-<h1 align="center">✨ Hola, soy Camila</h1>
-<h3 align="center">Una apasionada Frontend Developer</h3>
+<h1 align="center"> 🟣 Hola, soy Camila Tuberquia 🟣</h1>
+<h2 align="center">Una apasionada Frontend Developer</h2>
+<p align="center">  Cada día en busca de más conocimiento 🕵️‍♀️ </p>
+
 
 <p align="left">
 </p>
