@@ -1,4 +1,4 @@
-<h1 align="center"> 🟣 Hola, soy Camila Tuberquia 🟣</h1>
+<h1 align="center"> - Hola, soy Camila Tuberquia </h1>
 <h2 align="center">Una apasionada Frontend Developer</h2>
 <p align="center">  Cada día en busca de más conocimiento 🕵️‍♀️ </p>
 
